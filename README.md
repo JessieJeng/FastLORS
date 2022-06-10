@@ -1,5 +1,6 @@
 # FastLORS
 An R package for joint modeling to perform eQTL mapping
+Jacob Rhyne and X. Jessie Jeng
 
 This R package allows users to perform joint modeling of SNPs and the expression of genes. The package provides an implementation of LORS from Yang et al. (2013) as well as FastLORS from Rhyne et al. (2018). FastLORS uses the proximal gradient method to solve the LORS problem and improves upon the computational time required for joint modeling.
 
